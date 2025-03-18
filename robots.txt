@@ -1,0 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://fatimazahra-oukharraze.kesug.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
